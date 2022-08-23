@@ -1,0 +1,46 @@
+[1;31m
+Start test 1[0m
+
+(  .   ____          _            __ _ _
+) /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+*( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
++ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+*  '  |____| .__|_| |_|_| |_\__, | / / / /
+) =========|_|==============|___/=/_/_/_/
++ :: Spring Boot ::                (v2.5.6)
+
+¦2022-07-08 14:55:41.643  INFO 56311 --- [    Test worker] cinema.Main                              : Starting Main using Java 17.0.3.1 on Pauls-MacBook-Pro.local with PID 56311 (started by paullewis in /Users/paullewis/Coding/Java/Spring/Cinema Room REST Service/Cinema Room REST Service/task)
+¦2022-07-08 14:55:41.646  INFO 56311 --- [    Test worker] cinema.Main                              : No active profile set, falling back to default profiles: default
+“2022-07-08 14:55:42.784  INFO 56311 --- [    Test worker] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 28850 (http)
+2022-07-08 14:55:42.796  INFO 56311 --- [    Test worker] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+•2022-07-08 14:55:42.796  INFO 56311 --- [    Test worker] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.54]
+˜2022-07-08 14:55:42.859  INFO 56311 --- [    Test worker] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+¥2022-07-08 14:55:42.859  INFO 56311 --- [    Test worker] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1163 ms
+›2022-07-08 14:55:43.413  INFO 56311 --- [    Test worker] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+¢2022-07-08 14:55:43.442  INFO 56311 --- [    Test worker] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 28850 (http) with context path ''
+›2022-07-08 14:55:43.453  INFO 56311 --- [    Test worker] cinema.Main                              : Started Main in 2.285 seconds (JVM running for 2.966)
+Ÿ2022-07-08 14:55:43.778  INFO 56311 --- [io-28850-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+Ž2022-07-08 14:55:43.779  INFO 56311 --- [io-28850-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+†2022-07-08 14:55:43.780  INFO 56311 --- [io-28850-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+[1;31m
+Start test 2[0m
+[1;31m
+Start test 3[0m
+[1;31m
+Start test 4[0m
+[1;31m
+Start test 5[0m
+[1;31m
+Start test 6[0m
+[1;31m
+Start test 7[0m
+[1;31m
+Start test 8[0m
+[1;31m
+Start test 9[0m
+[1;31m
+Start test 10[0m
+[1;31m
+Start test 11[0m
+[1;31m
+Start test 12[0m
